@@ -1,7 +1,5 @@
 //With argument and with return value.
 
-
-
 #include<stdio.h>
 int sum(int a, int b)
 {return a+b;}
